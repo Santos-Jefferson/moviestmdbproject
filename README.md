@@ -1,5 +1,7 @@
 # Movies TMDB Project
 
+### Instructions:
+
 1. Git clone this repository
 2. Install node.js
 3. Install express running: npm install express

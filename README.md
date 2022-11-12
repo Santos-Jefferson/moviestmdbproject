@@ -16,7 +16,10 @@
 The last time I used Node.js and Express was in one of my classes at BYU-Idaho, probably more than 7 years ago. I did some research and read the documentation to refresh some concepts and conclude the project partially. I never used before Vue.js and Nuxt.
 
 Unfortunately, I wasn't able to conclude the whole project. The next steps that should be implemented are:
- - Finish the front-end part to display the Title, Image of the Poster, Popularity summary, etc. For now, the full API results are displayed only on the console log.
+  - Finish the front-end part to display the Title, Image of the Poster, Popularity summary, etc. For now, the full API results are displayed only on the console log.
  - Filter the API results to 10 items only and to the items to be displayed at the front-end
- - Thanks for the opportunity!
+ - Better treat the API_KEY using environment variables or some other library to hide it from the code
+ 
+ 
+ Thanks for the opportunity!
 
